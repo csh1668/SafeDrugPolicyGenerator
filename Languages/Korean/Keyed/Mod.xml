@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <BestDrugPolicyLabel>중독으로부터 안전</BestDrugPolicyLabel>
+    <BDP_policyName>약물 정책 이름 : </BDP_policyName>
+    <BDP_Category>안전한 약물 정책 생성기</BDP_Category>
+    <BDP_additionalDays>추가 빈도 (일) : {0}일</BDP_additionalDays>
+    <BDP_onlyIfJoyBelow>'재미 기준치' 일괄 설정 : {0}%</BDP_onlyIfJoyBelow>
+    <BDP_onlyIfMoodBelow>'기분 기준치' 일괄 설정 : {0}%</BDP_onlyIfMoodBelow>
+    <BDP_onlyIfToleranceBelowMultiplier>'내성 기준치' 일괄 설정 : (각 약물의 중독성 최소 내성) * {0}</BDP_onlyIfToleranceBelowMultiplier>
+    <BDP_onlyIfToleranceBelowMultiplierTooltip>약물 정책 '내성 기준치' 모드와의 연동 기능입니다. \n각 약물에 중독되는데 필요한 최소 내성 수치에, 이 값를 곱하여 '내성 기준치'의 값으로 설정합니다. 이 값이 '아무때나' 일 경우 동작하지 않습니다.</BDP_onlyIfToleranceBelowMultiplierTooltip>
+    <BDP_Anyway>아무때나</BDP_Anyway>
+    <BDP_applyButton>설정 저장하기</BDP_applyButton>
+    <BDP_appliedMessage>저장되었습니다!</BDP_appliedMessage>
+    <BDP_addToCurSaveButton>안전한 약물 정책을 현재 게임에 추가하기</BDP_addToCurSaveButton>
+    <BDP_addedToCurSaveMessage>현재 게임에 추가되었습니다!</BDP_addedToCurSaveMessage>
+</LanguageData>

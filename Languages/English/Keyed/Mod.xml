@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <BestDrugPolicyLabel>Safe from addiction</BestDrugPolicyLabel>
+    <BDP_policyName>Drug policy name : </BDP_policyName>
+    <BDP_Category>Safe Drug Policy Generator</BDP_Category>
+    <BDP_additionalDays>Additional frequency : {0} days</BDP_additionalDays>
+    <BDP_onlyIfJoyBelow>Overall 'Only if joy below' : {0}%</BDP_onlyIfJoyBelow>
+    <BDP_onlyIfMoodBelow>Overall 'Only if mood below' : {0}%</BDP_onlyIfMoodBelow>
+    <BDP_onlyIfToleranceBelowMultiplier>Overall 'Only if tolerance below' : (New addiction min tolerance of each drugs) * {0}</BDP_onlyIfToleranceBelowMultiplier>
+    <BDP_onlyIfToleranceBelowMultiplierTooltip>Integration with "Only If Tolerance Below" mod.\nNew addiction min tolerance of each drugs are multiplied by this value and set to the value of the 'Only if tolerance below'. This does not work when this value is set to 'any'.</BDP_onlyIfToleranceBelowMultiplierTooltip>
+    <BDP_Anyway>any</BDP_Anyway>
+    <BDP_applyButton>Apply</BDP_applyButton>
+    <BDP_appliedMessage>Applied!</BDP_appliedMessage>
+    <BDP_addToCurSaveButton>Add safe drug policy to current save</BDP_addToCurSaveButton>
+    <BDP_addedToCurSaveMessage>Added!</BDP_addedToCurSaveMessage>
+</LanguageData>
