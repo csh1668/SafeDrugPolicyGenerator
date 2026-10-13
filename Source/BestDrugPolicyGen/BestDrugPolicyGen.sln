@@ -3,21 +3,30 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestDrugPolicyGen", "BestDrugPolicyGen.csproj", "{462AE7DD-4F6D-4319-B14B-8EFA8459433B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestDrugPolicyGen", "BestDrugPolicyGen.csproj", "{507C43A3-2535-4229-A042-AE6F66E6340F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestDrugPolicyGen.Old", "..\BestDrugPolicyGen.Old\BestDrugPolicyGen.Old.csproj", "{462AE7DD-4F6D-4319-B14B-8EFA8459433B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
-		Release for 1.4|Any CPU = Release for 1.4|Any CPU
+		Debug for 1.6|Any CPU = Debug for 1.6|Any CPU
 		Release|Any CPU = Release|Any CPU
+		Release for 1.4|Any CPU = Release for 1.4|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{507C43A3-2535-4229-A042-AE6F66E6340F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{507C43A3-2535-4229-A042-AE6F66E6340F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{507C43A3-2535-4229-A042-AE6F66E6340F}.Debug for 1.6|Any CPU.ActiveCfg = Release|Any CPU
+		{507C43A3-2535-4229-A042-AE6F66E6340F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{507C43A3-2535-4229-A042-AE6F66E6340F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{507C43A3-2535-4229-A042-AE6F66E6340F}.Release for 1.4|Any CPU.ActiveCfg = Release|Any CPU
 		{462AE7DD-4F6D-4319-B14B-8EFA8459433B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{462AE7DD-4F6D-4319-B14B-8EFA8459433B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462AE7DD-4F6D-4319-B14B-8EFA8459433B}.Debug for 1.6|Any CPU.ActiveCfg = Debug|Any CPU
+		{462AE7DD-4F6D-4319-B14B-8EFA8459433B}.Debug for 1.6|Any CPU.Build.0 = Debug|Any CPU
+		{462AE7DD-4F6D-4319-B14B-8EFA8459433B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{462AE7DD-4F6D-4319-B14B-8EFA8459433B}.Release for 1.4|Any CPU.ActiveCfg = Release for 1.4|Any CPU
 		{462AE7DD-4F6D-4319-B14B-8EFA8459433B}.Release for 1.4|Any CPU.Build.0 = Release for 1.4|Any CPU
-		{462AE7DD-4F6D-4319-B14B-8EFA8459433B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{462AE7DD-4F6D-4319-B14B-8EFA8459433B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
